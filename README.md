@@ -21,7 +21,7 @@
 
 
 
-<img src="https://imgur.com/f1lEHaN" width=250><br>
+<img src= https://imgur.com/f1lEHaN width=250><br>
 
 ### Notes
 
