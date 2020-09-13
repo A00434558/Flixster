@@ -18,8 +18,8 @@
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
--![Sample Gif]
-(http://imgur.com/Afjc1fQ.gif)
+<img src="http://imgur.com/Afjc1fQ.gif" width=250><br>
+
 
 
 
