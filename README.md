@@ -20,7 +20,7 @@
 ### App Walkthough GIF
 -![Sample Gif]
 (http://imgur.com/Afjc1fQ.gif)
-+<img src="/art/sample.gif?
++<img src="/art/http://imgur.com/Afjc1fQ.gif?
 raw=true" width="200px">
 
 
