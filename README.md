@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-
+https://github.com/A00434558/Flixster/blob/master/James%20Johnson%20Walkthrough.gif
 
 
 ### Notes
