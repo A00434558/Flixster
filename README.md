@@ -21,7 +21,7 @@
 
 
 
-<img src= https://<blockquote class="imgur-embed-pub" lang="en" data-id="f1lEHaN"><a href="https://imgur.com/f1lEHaN">View post on imgur.com</a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="f1lEHaN"><a href="https://imgur.com/f1lEHaN">View post on imgur.com</a></blockquote>
 ### Notes
 
 Describe any challenges encountered while building the app.
